@@ -6,5 +6,6 @@ In this recording:
 - blue blocks = herbivores
 - black blocks = carnivores
 
-https://user-images.githubusercontent.com/78930639/227031310-0b8cedc0-56b2-4387-9316-dcc1c9b641b0.mov
+
+https://user-images.githubusercontent.com/78930639/227031772-82598e54-bb4c-4a1c-851e-dffcb8e192d7.mov
 
